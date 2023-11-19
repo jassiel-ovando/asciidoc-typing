@@ -1,0 +1,23 @@
+{
+  "name": "ascii-typing",
+  "version": "1.0.0",
+  "description": "AsciiDoc Editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asciidoc",
+    "text",
+    "editor"
+  ],
+  "author": "jassiel",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.0.4"
+  },
+  "dependencies": {
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
